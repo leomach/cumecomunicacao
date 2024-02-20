@@ -5,7 +5,7 @@ import { MdOutlinePhotoCamera } from 'react-icons/md';
 export function Servicos() {
   return (
     <section className="py-10 min-h-96 gap-9 w-full flex flex-col justify-center items-center bg-cumecinza-100">
-      <h1 className="uppercase max-md:w-3/4 w-96 text-cumemarrom-500 text-center font-['Righteous'] font-extrabold text-2xl md:text-4xl transition-all duration-500">
+      <h1 className="uppercase max-md:w-3/4 w-96 text-cumemarrom-500 text-center font-title font-extrabold text-2xl md:text-4xl transition-all duration-500">
         Nossos Serviços
       </h1>
       <div className="w-3/4 gap-3 flex justify-around items-center">
