@@ -5,13 +5,7 @@ export function BannerHome() {
   return (
     <section className="max-md:h-100 md:h-lvh w-full relative">
       <div className="absolute w-full flex flex-col items-center justify-center top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 transition-all duration-500 z-20">
-        <Image
-          className="w-max h-16 md:h-28 object-cover mb-2"
-          src="/logo.png"
-          width={500}
-          height={500}
-          alt="logo da cume"
-        />
+        <Image className="mb-2" src="/logo.png" width={300} height={300} alt="logo da cume" />
         <h2 className="text-cumeazul-100 text-center text-semibold uppercase text-xs md:text-lg transition-all duration-500">
           O ápice da comunicação
         </h2>

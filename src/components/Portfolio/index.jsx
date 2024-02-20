@@ -36,7 +36,7 @@ export function Portfolio() {
     <section className="flex justify-center flex-col w-full bg-cumemarrom-100 pt-20 pb-12">
       <a name="portfolio" />
       <div className="flex max-md:flex-col max-md:gap-9 justify-center pl-6">
-        <h1 className="md:ml-28 text-center md:text-left w-80 font-bold text-2xl font-['Righteous'] self-center max-md:w-3/4 md:text-5xl uppercase text-cumemarrom-500 mr-7">
+        <h1 className="md:ml-28 text-center md:text-left w-80 text-2xl font-sans font-bold self-center max-md:w-3/4 md:text-5xl uppercase text-cumemarrom-500 mr-7">
           nossos projetos web
         </h1>
         <div

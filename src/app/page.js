@@ -10,7 +10,7 @@ export default function Home() {
       <BannerHome />
       <Servicos />
       <div className="flex justify-center items-center bg-cumecinza-100 w-full py-7">
-        <h1 className="uppercase max-md:w-3/4 w-96 text-cumemarrom-500 text-center font-['Righteous'] font-extrabold text-2xl md:text-4xl transition-all duration-500">
+        <h1 className="uppercase max-md:w-3/4 w-96 text-cumemarrom-500 text-center font-sans font-bold text-2xl md:text-4xl transition-all duration-500">
           Por Que Escolher a Cume Comunicação?
         </h1>
       </div>
